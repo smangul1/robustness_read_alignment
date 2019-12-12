@@ -1,0 +1,13 @@
+﻿tool name,read mode,% unmapped reads,# uniquely mapped reads,% unique mapped
+STAR,g,14.31,19214897,79.2782
+STAR,o,14.31,19214897,79.2782
+STAR,s1,14.31,19214897,79.2782
+STAR,s2,14.31,19214897,79.2782
+STAR,s3,14.31,19214897,79.2782
+STAR,rv,14.39,19201446,79.2227
+subread,g,,18303378,75.5174
+subread,o,,18303617,75.5184
+subread,s1,,18303618,75.5184
+subread,s2,,18303647,75.5185
+subread,s3,,18303784,75.5190
+subread,rv,,18305893,75.5277
